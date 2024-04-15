@@ -133,6 +133,8 @@ body{
 
 .about-container{
   max-width: 600px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 #page-about h3{
