@@ -16,8 +16,8 @@
 /* mobile-first design */
 
 html{
-  scroll-behavior: smooth;
-  scroll-snap-type: y mandatory;
+  /* scroll-behavior: smooth;
+  scroll-snap-type: y mandatory; */
   width: 100%;
 }
 
@@ -27,7 +27,7 @@ body{
 
 #page-landing{
   /* background-color: red; */
-  height: 100vh;
+  height: 100svh;
   width: 100%;
   scroll-snap-align: start;
 }
